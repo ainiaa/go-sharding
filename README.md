@@ -1,2 +1,2 @@
-# go-sharding
-go-sharding
+# gorm-sharding
+gorm-sharding
